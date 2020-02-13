@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7f0d14e-65a4-4f64-af3e-c5d6cebdc5d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcZxuZnxBagyEY0dmQ6Cjeu3cS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="client" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <toRun name="otherMain" type="CompoundRunConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="otherMain" type="CompoundRunConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="otherMain" type="CompoundRunConfigurationType">
+      <toRun name="otherMain" type="CompoundRunConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Compound.otherMain" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f0d14e-65a4-4f64-af3e-c5d6cebdc5d0" name="Default Changelist" comment="" />
+      <created>1581347592559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581347592559</updated>
+      <workItem from="1581347596305" duration="2141000" />
+      <workItem from="1581410236791" duration="13000" />
+      <workItem from="1581623031780" duration="4872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581624198183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581624198183" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1581623039144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581623039144" />
+    <state width="723" height="182" key="GridCell.Tab.0.bottom" timestamp="1581628264733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581628264733" />
+    <state width="723" height="182" key="GridCell.Tab.0.center" timestamp="1581628264733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581628264733" />
+    <state width="723" height="182" key="GridCell.Tab.0.left" timestamp="1581628264733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581628264733" />
+    <state width="723" height="182" key="GridCell.Tab.0.right" timestamp="1581628264733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581628264733" />
+    <state width="723" height="210" key="GridCell.Tab.1.bottom" timestamp="1581623848108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581623848108" />
+    <state width="723" height="210" key="GridCell.Tab.1.center" timestamp="1581623848108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581623848108" />
+    <state width="723" height="210" key="GridCell.Tab.1.left" timestamp="1581623848108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581623848108" />
+    <state width="723" height="210" key="GridCell.Tab.1.right" timestamp="1581623848108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581623848108" />
+    <state width="723" height="210" key="GridCell.Tab.2.bottom" timestamp="1581623852112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581623852112" />
+    <state width="723" height="210" key="GridCell.Tab.2.center" timestamp="1581623852096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1581623852096" />
+    <state width="723" height="210" key="GridCell.Tab.2.left" timestamp="1581623852096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1581623852096" />
+    <state width="723" height="210" key="GridCell.Tab.2.right" timestamp="1581623852112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1581623852112" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1581410242112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581410242112" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/client$Main.ic" NAME="Main Coverage Results" MODIFIED="1581623799914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
