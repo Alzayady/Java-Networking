@@ -13,12 +13,11 @@ public class Main {
 //        InetAddress inetAddress = InetAddress.getLocalHost();
 //        System.out.println("IP Address:- " + inetAddress.getHostAddress());
 //        System.out.println("Host Name:- " + inetAddress.getHostName());
-        while (true) {
             try (ServerSocket serverSocket = new ServerSocket(5000)) {
                 new ClientThread(serverSocket.accept()).start();
             } catch (IOException e) {
                 e.printStackTrace();
             }
-        }
+
     }
 }

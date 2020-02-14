@@ -4,18 +4,28 @@ import java.util.Scanner;
 public class WriteThread extends Thread {
     private Scanner scanner;
     private PrintWriter writer;
-    Boolean continues=true;
-    public  WriteThread(PrintWriter writer){
+    private Boolean continues=true;
+    private Client client;
+    public  WriteThread(PrintWriter writer, Client client){
         scanner=new Scanner(System.in);
+        this.client=client;
         this.writer=writer;
     }
     @Override
     public void run(){
         while (continues){
-            writer.println(scanner.nextLine());
+                String message =scanner.nextLine();
+                if(continues)
+                writer.println(message);
+                if(message.equals("exit")){
+                    client.Stop();
+                    return;
+                }
+            }
         }
-    }
+
     public  void Stop(){
         this.continues=false;
+        scanner.close();
     }
 }

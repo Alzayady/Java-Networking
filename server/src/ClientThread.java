@@ -21,25 +21,17 @@ public class ClientThread extends Thread {
 
                 BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
                 PrintWriter writer = new PrintWriter(socket.getOutputStream(), true);
-                writeThread = new WriteThread(writer);
+                writeThread = new WriteThread(writer,this);
                 readThread = new ReadThread(reader, this);
                 writeThread.start();
                 readThread.start();
-                wait();
             }
-        } catch (IOException | InterruptedException e) {
+        } catch (IOException e) {
             System.out.println("client run  away !!!");
-        }finally {
-                try {
-                    socket.close();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-                scanner.close();
-
         }
     }
     public void stopThread(){
+        this.readThread.Stop();
         this.writeThread.Stop();
     }
 }
